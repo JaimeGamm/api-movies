@@ -1,4 +1,3 @@
-
 ### Recuperar todas las películas
 GET http://localhost:1234/movies
 
